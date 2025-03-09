@@ -12,10 +12,17 @@ import infoIcons from '../assets/info-circle.png';
 import closedIcon from '../assets/icon=close small.png';
 import deepDiveIcon from '../assets/icon-deep-dive.png';
 import tooltipIcon from '../assets/Tooltip.png';
-
+import heroPatterns from '../assets/HeroPattern.png';
 const SidebarRight = () => {
     return (
-        <div className='w-[1116px] h-[868px] bg-[#2B2B2B] rounded-2xl px-5 pt-10 pb-5'>
+        <div 
+        className='w-[1116px] h-[868px] bg-[#2B2B2B] rounded-2xl px-5 pt-10 pb-5 relative overflow-hidden' 
+        style={{
+            backgroundImage: `url(${heroPatterns})`,
+            backgroundSize: "cover", 
+            backgroundPosition: "center"
+        }}
+    >
             {/* Right Side content info  */}
             <div className='w-[636px] mx-auto rounded-full flex justify-center items-center bg-[#242424] py-2 pl-4 pr-3 text-sm mb-10'>
                 <div className='flex gap-3 items-center'>
