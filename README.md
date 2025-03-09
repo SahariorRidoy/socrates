@@ -1,12 +1,44 @@
-# React + Vite
+# 🌟 Socrates
+Socrates is a React-based web application with a sleek modern UI, built using Tailwind CSS. It features an intuitive sidebar navigation system and file upload options, allowing users to seamlessly interact with local and cloud-based files.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🔗 Live Demo: [Socrates](https://socrates.vercel.app/)  
 
-Currently, two official plugins are available:
+# ✨ Features
+✅ Modern UI – Built with React & Tailwind CSS
+🚀 Fast Development – Powered by Vite for blazing-fast builds
+🌙 Dark Mode – Elegant & eye-friendly interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 📦 Dependencies
+React 19 – UI framework
+Tailwind CSS 4 – Styling
+Vite 6 – Development build tool
+📌 Check package.json for a full list of dependencies.
 
-## Expanding the ESLint configuration
+# 🛠 Technologies Used
+🚀 React.js
+🎨 Tailwind CSS
+⚡ Vite
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# ⚙️ Prerequisites
+Before setting up the project, ensure you have the following installed:
+
+🔹 Node.js (v18+ recommended)
+🔹 npm (comes with Node.js) or yarn
+
+# 🛠 Installation & Setup
+Follow these simple steps to set up and run the project locally:
+
+1️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-repo/blood-bank.git
+cd blood-bank
+```
+2️⃣ Install Dependencies
+```sh
+npm install
+```
+3️⃣ Start the application in development mode:
+```sh
+npm run dev
+```
+4️⃣ The project will be available at http://localhost:5173/ (default Vite port).
