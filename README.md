@@ -1,7 +1,7 @@
 # 🌟 Socrates
 Socrates is a React-based web application with a sleek modern UI, built using Tailwind CSS. It features an intuitive sidebar navigation system and file upload options, allowing users to seamlessly interact with local and cloud-based files.
 
-# 🔗 Live Demo: [Socrates](https://socrates.vercel.app/)  
+# 🔗 Live Demo: [Socrates](https://socrates-chi.vercel.app//)  
 
 # ✨ Features
 ✅ Modern UI – Built with React & Tailwind CSS
